@@ -1,0 +1,11 @@
+{
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 12,
+    "terminal.integrated.fontSize": 12,
+    "latex-workshop.view.pdf.viewer": "external",
+    "latex-workshop.view.pdf.ref.viewer": "external",
+    "terminal.integrated.rendererType": "dom",
+    "window.zoomLevel": 0,
+}
