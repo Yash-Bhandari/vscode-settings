@@ -1,11 +1,21 @@
 {
-    "javascript.updateImportsOnFileMove.enabled": "always",
-    "editor.wordWrap": "on",
     "editor.minimap.enabled": false,
-    "editor.fontSize": 12,
-    "terminal.integrated.fontSize": 12,
-    "latex-workshop.view.pdf.viewer": "external",
-    "latex-workshop.view.pdf.ref.viewer": "external",
-    "terminal.integrated.rendererType": "dom",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "arduino.path": "C:\\Program Files (x86)\\Arduino",
+    "includePath": "C:\\Program Files (x86)\\Arduino",
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "arduino.defaultBaudRate": 9600,
+    "php.suggest.basic": false,
+    "editor.wordWrap": "on",
+    "editor.fontSize": 13,
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
     "window.zoomLevel": 0,
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "files.associations": {
+        "*.ipynb": "python"
+    
+    },
+    "C_Cpp.default.intelliSenseMode": "clang-x64"
 }
